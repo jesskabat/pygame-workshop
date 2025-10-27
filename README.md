@@ -22,7 +22,7 @@ An interactive, simple tutorial to make a game with Python using pygame
 
 2. Open a terminal in your project directory
 
-3. Setup a virtual environment
+3. Setup a virtual environment - Intellji does this for you
     1. In your terminal, while in the project directroy, run `python -m venv venv`.
         - This will create a new folder called `venv` in your project directory
         - This folder will contain the python packages, like `pygame`, you install for the project
